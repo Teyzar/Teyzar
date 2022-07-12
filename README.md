@@ -1,9 +1,7 @@
 # Hi there 👋
 
-##### My name is Thomas Andrew Zaragoza, I'm a fourth-year College Student pursuing a BS in Computer Engineering. I've got a few months to go before I'll be able to graduate as a Computer Engineer. 😄
-##### I'm currently learning NodeJS, TypeScript, and Java, among other programming languages. For the time being, I'm enjoying developing web applications with the Laravel framework. It's also good to learn more about Laravel and how the different modules work. I also enjoyed using Laravel and Node.js with express framework to create API's.
-
-##### There is  so much to learn,  I'll just keep studying and improving my skills so that I'll be able to apply them in the future.
+##### My name is Thomas Andrew Zaragoza, A recent graduate with a degree in Computer Engineering. Experienced in Web and Mobile development using Laravel, html, bootstrap, JQuery and Flutter for Mobile development 😄
+##### I'm still in the process of Learning of different tech stack, Like Vue, React for Front-end Development and NodeJS for backend.
 
 <!--
 **Teyzar/Teyzar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
