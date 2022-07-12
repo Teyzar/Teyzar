@@ -1,4 +1,4 @@
-# Hi there 👋
+## Hi there 👋
 
 ##### My name is Thomas Andrew Zaragoza, A recent graduate with a degree in Computer Engineering. Experienced in Web and Mobile development using Laravel, html, bootstrap, JQuery and Flutter for Mobile development 😄
 ##### I'm still in the process of Learning of different tech stack, Like Vue, React for Front-end Development and NodeJS for backend.
