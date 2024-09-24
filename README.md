@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-##### Hi, I'm Thomas Zaragoza, a Computer Engineer and Software Developer. I enjoy developing mobile and web applications and strive to bring my ideas to life. I'm passionate about learning new technologies to help me improve and apply best practices as a software developer. 😄
+##### Hi, I'm Thomas Zaragoza, a Computer Engineer and Software Developer. I enjoy developing mobile and web applications and strive to bring my ideas to life.
+##### I'm passionate about learning new technologies to help me improve and apply best practices as a software developer. 😄
 
 <!--
 **Teyzar/Teyzar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
